@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pallavipraveen/day2SayHello/sayHello/sayHello.csproj": {}
+    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week1\\day2SayHello\\sayHello\\sayHello.csproj": {}
   },
   "projects": {
-    "/Users/pallavipraveen/day2SayHello/sayHello/sayHello.csproj": {
+    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week1\\day2SayHello\\sayHello\\sayHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pallavipraveen/day2SayHello/sayHello/sayHello.csproj",
+        "projectUniqueName": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week1\\day2SayHello\\sayHello\\sayHello.csproj",
         "projectName": "sayHello",
-        "projectPath": "/Users/pallavipraveen/day2SayHello/sayHello/sayHello.csproj",
-        "packagesPath": "/Users/pallavipraveen/.nuget/packages/",
-        "outputPath": "/Users/pallavipraveen/day2SayHello/sayHello/obj/",
+        "projectPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week1\\day2SayHello\\sayHello\\sayHello.csproj",
+        "packagesPath": "C:\\Users\\darcy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week1\\day2SayHello\\sayHello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pallavipraveen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\darcy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

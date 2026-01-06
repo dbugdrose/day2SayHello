@@ -13,7 +13,7 @@ namespace sayHello.Controllers
     {
 
         [HttpGet]
-        [Route("Name")]
+        [Route("Name/{userName}")]
         public string Name(string userName)
         {
             return $"Hello, {userName}!";
